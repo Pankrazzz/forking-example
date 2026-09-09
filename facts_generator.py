@@ -39,7 +39,7 @@ def get_contributions():
         ("Noortje", "Your fun fact"),
         ("Irmak", "Your fun fact"),
         ("Kimberly", "Your fun fact"),
-        ("Kelvin", "Your fun fact"),
+        ("Kelvin", "Heeft 0 euro in zijn bankaccount."),
         ("Rafael", "Your fun fact"),
         ("Lennard", "Your fun fact"),
 
